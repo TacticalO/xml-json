@@ -1,0 +1,8 @@
+<class>
+    <student>
+        <name>Itzik</name>
+        <grade name ="math">100</grade>
+        <grade name ="bible">30</grade>
+        <grade name ="bio">10</grade>
+    </student>
+</class>
